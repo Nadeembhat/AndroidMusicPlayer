@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.ernadeembhat.androidmusicplayer.R;
+import com.ernadeembhat.R;
 import com.ernadeembhat.adapter.PlaylistAdapter;
 import com.ernadeembhat.entities.PlaylistObject;
 

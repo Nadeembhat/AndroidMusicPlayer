@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.ernadeembhat.androidmusicplayer.R;
+import com.ernadeembhat.R;
 
 public class PlaylistViewHolder extends RecyclerView.ViewHolder{
 

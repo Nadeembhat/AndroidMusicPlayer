@@ -18,7 +18,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
-import com.ernadeembhat.androidmusicplayer.R;
+import com.ernadeembhat.R;
 
 import com.ernadeembhat.fragment.LibraryFragment;
 import com.ernadeembhat.fragment.PlaylistFragment;
